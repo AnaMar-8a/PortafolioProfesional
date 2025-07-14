@@ -7,6 +7,8 @@
 
 ---
 
+[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMar-8a&show_icons=true&theme=dark)](https://github.com/AnaMar-8a)
+
 Líder con más de 6 años de experiencia dirigiendo el ciclo de vida completo de productos y proyectos de software. Mi enfoque es alinear la visión estratégica con la ejecución ágil para optimizar procesos, asegurar la escalabilidad de soluciones y generar nuevas oportunidades de negocio. Experta en la gestión de equipos multifuncionales y en la traducción de necesidades complejas en soluciones tecnológicas de alto impacto.
 
 ### Metodologías y Competencias
