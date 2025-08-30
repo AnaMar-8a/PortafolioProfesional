@@ -4,6 +4,14 @@
 
 ---
 
+## 📊 Impacto en Números  
+
+| 🚀 Proyectos Liderados | 👥 Equipos Coordinados | 💰 Presupuesto Gestionado | 🎯 Resultados Clave |
+|------------------------|------------------------|---------------------------|---------------------|
+| +20                    | +50 profesionales      | +$5,000M COP              | −40 % bugs · +35 NPS |
+
+---
+
 ## 👩‍💼 Sobre mí  
 Gerente de Proyectos y Líder de Producto especializada en **Transformación Digital, Innovación y Gestión de Equipos Multidisciplinarios**.  
 Experiencia en **Agile (Scrum, Kanban)** y **PMI**, con resultados medibles en eficiencia, reducción de costos y satisfacción de clientes.  
@@ -31,4 +39,4 @@ Experiencia en **Agile (Scrum, Kanban)** y **PMI**, con resultados medibles en e
 ## 📬 Contacto  
 🌍 Medellín, Colombia  
 🔗 [LinkedIn](https://www.linkedin.com/in/8aanamaria/)  
-📧 8a.anamaria@gmail.com
+📧 8a.anamaria@gmail.com  
