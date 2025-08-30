@@ -1,5 +1,9 @@
 # 🌟 Portafolio Profesional – Ana María Ochoa Patiño  
 
+**“Conecto estrategia y ejecución para entregar resultados medibles en proyectos de alto impacto.”**  
+
+---
+
 ## 👩‍💼 Sobre mí  
 Gerente de Proyectos y Líder de Producto especializada en **Transformación Digital, Innovación y Gestión de Equipos Multidisciplinarios**.  
 Experiencia en **Agile (Scrum, Kanban)** y **PMI**, con resultados medibles en eficiencia, reducción de costos y satisfacción de clientes.  
@@ -8,35 +12,12 @@ Experiencia en **Agile (Scrum, Kanban)** y **PMI**, con resultados medibles en e
 
 ## 🚀 Casos Destacados  
 
-### 1️⃣ [Gestión de Software – Syspotec](../Portfolio-Gestion-Software-Syspotec)  
-- 📌 **Reto**: mejorar la calidad de software en 25 soluciones empresariales.  
-- 🛠 **Rol**: Gerente de Proyecto + PM Agile.  
-- ✅ **Resultados**:  
-  - Reducción del **40 % de bugs** en 6 meses.  
-  - Ahorro de **$300M COP** en soporte.  
-  - Incremento de satisfacción del cliente en **+20 puntos NPS**.  
-
----
-
-### 2️⃣ [Consultoría en Transformación Digital – GTA](../Consultoria-Transformacion-Digital-GTA)  
-- 📌 **Reto**: digitalizar procesos críticos en una empresa de energía.  
-- 🛠 **Rol**: PMO – Scrum Master – SDR.  
-- ✅ **Resultados**:  
-  - Ejecución de **15 iniciativas estratégicas**.  
-  - **+30 % de eficiencia** en operaciones clave.  
-  - Escalabilidad y nueva estrategia de gestión digital.  
-
----
-
-### 3️⃣ [Liderazgo de Producto en Acción](../Liderazgo-de-Producto-en-Acci-n-Un-Portafolio-de-Casos-de-Estudio)  
-- 📌 **Enfoque**: reflexiones ejecutivas sobre liderazgo transversal, innovación y transformación digital.  
-- 📊 **Valor**: visión estratégica aplicada a casos reales.  
-
----
-
-### 4️⃣ Otros Proyectos  
-- 🔗 [AIR-E – Gestión de Productos Digitales](#)  
-- 🔗 [Digita Studio – Innovación en Marketing Digital](#)  
+| Proyecto | Rol | Impacto Clave |
+|----------|-----|----------------|
+| [**Syspotec – Gestión de Software**](../Portfolio-Gestion-Software-Syspotec) | Gerente de Proyecto + PM Agile | − 40 % bugs, ahorro $300M COP, 6 equipos coordinados |
+| [**Grupo GTA – Transformación Digital**](../Consultoria-Transformacion-Digital-GTA) | PMO / Scrum Master | 15 iniciativas estratégicas, +30 % eficiencia operativa |
+| [**AIR-E – Programa Ágil**](#) | Facilitadora | Mejora NPS de 50 → 85, gobierno de datos |
+| [**Digita Studio – SaaS**](#) | Líder de Producto | Roadmap y arquitectura en 4 países |
 
 ---
 
@@ -49,5 +30,5 @@ Experiencia en **Agile (Scrum, Kanban)** y **PMI**, con resultados medibles en e
 
 ## 📬 Contacto  
 🌍 Medellín, Colombia  
-🔗 [LinkedIn](https://www.linkedin.com/in/anamar-ochoa)  
-📧 ana.ochoa@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/8aanamaria/)  
+📧 8a.anamaria@gmail.com
